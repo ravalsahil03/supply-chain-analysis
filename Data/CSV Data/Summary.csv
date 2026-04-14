@@ -1,0 +1,26 @@
+SUPPLY CHAIN DATASET – SUMMARY,
+,
+Dataset Overview,
+Total Orders,500
+Total Inventory Records,50
+Supplier Performance Records,60
+Total Shipments,300
+,
+Key Metrics,
+Total Order Value ($),3882126.67
+Average Order Value ($),7764.25334
+On-Time Delivery Rate,0
+Cancelled Orders,#REF!
+,
+Sheets in this Workbook,
+Orders,500 purchase orders with full details
+Inventory,Stock levels across 5 warehouses
+Supplier_Performance,Monthly KPIs for 5 suppliers (2024)
+Shipments,300 inter-warehouse shipment records
+,
+Suggested Analysis Topics,
+1. On-time delivery performance by supplier & carrier,
+2. Inventory turnover and stock-out risk analysis,
+3. Freight cost optimization by transport mode,
+4. Supplier rating vs defect rate correlation,
+5. Monthly spend trend & category breakdown,

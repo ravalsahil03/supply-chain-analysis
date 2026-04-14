@@ -1,0 +1,51 @@
+Index_Number,Warehouse_ID,Warehouse_Name,Country,Product_ID,Product_Name,Category,Stock_Quantity,Reorder_Level,Max_Capacity,Unit_Cost,Inventory_Value,Stock_Status,Stockout_Risk_Status
+1,WH-01,Mumbai Central,India,P-001,Electronic Components,Electronics,570,111,1166,45,25650,High,Stock Available
+2,WH-01,Mumbai Central,India,P-002,Steel Rods,Raw Material,379,121,1936,8.5,3221.5,High,Stock Available
+3,WH-01,Mumbai Central,India,P-003,Plastic Casings,Packaging,495,82,1428,15.75,7796.25,High,Stock Available
+4,WH-01,Mumbai Central,India,P-004,Circuit Boards,Electronics,591,94,1615,120,70920,High,Stock Available
+5,WH-01,Mumbai Central,India,P-005,Rubber Seals,Components,753,67,1043,3.25,2447.25,High,Stock Available
+6,WH-01,Mumbai Central,India,P-006,Copper Wire,Raw Material,765,79,1714,22,16830,High,Stock Available
+7,WH-01,Mumbai Central,India,P-007,Aluminum Sheets,Raw Material,801,139,1131,18.5,14818.5,High,Stock Available
+8,WH-01,Mumbai Central,India,P-008,Adhesive Compounds,Chemicals,102,77,1841,9,918,Normal,Stock Available
+9,WH-01,Mumbai Central,India,P-009,LED Displays,Electronics,410,150,1493,85,34850,High,Stock Available
+10,WH-01,Mumbai Central,India,P-010,Bolt & Nut Sets,Hardware,820,120,906,2.5,2050,High,Stock Available
+11,WH-02,Chicago Hub,USA,P-001,Electronic Components,Electronics,164,99,810,45,7380,Normal,Stock Available
+12,WH-02,Chicago Hub,USA,P-002,Steel Rods,Raw Material,823,61,1097,8.5,6995.5,High,Stock Available
+13,WH-02,Chicago Hub,USA,P-003,Plastic Casings,Packaging,482,126,1691,15.75,7591.5,High,Stock Available
+14,WH-02,Chicago Hub,USA,P-004,Circuit Boards,Electronics,90,58,1338,120,10800,Normal,Stock Available
+15,WH-02,Chicago Hub,USA,P-005,Rubber Seals,Components,227,97,963,3.25,737.75,High,Stock Available
+16,WH-02,Chicago Hub,USA,P-006,Copper Wire,Raw Material,623,54,1587,22,13706,High,Stock Available
+17,WH-02,Chicago Hub,USA,P-007,Aluminum Sheets,Raw Material,953,101,1867,18.5,17630.5,High,Stock Available
+18,WH-02,Chicago Hub,USA,P-008,Adhesive Compounds,Chemicals,293,141,917,9,2637,High,Stock Available
+19,WH-02,Chicago Hub,USA,P-009,LED Displays,Electronics,968,149,1158,85,82280,High,Stock Available
+20,WH-02,Chicago Hub,USA,P-010,Bolt & Nut Sets,Hardware,655,113,1699,2.5,1637.5,High,Stock Available
+21,WH-03,Berlin Depot,Germany,P-001,Electronic Components,Electronics,10,75,1861,45,450,Critical,Stockout Risk
+22,WH-03,Berlin Depot,Germany,P-002,Steel Rods,Raw Material,292,74,868,8.5,2482,High,Stock Available
+23,WH-03,Berlin Depot,Germany,P-003,Plastic Casings,Packaging,802,126,1845,15.75,12631.5,High,Stock Available
+24,WH-03,Berlin Depot,Germany,P-004,Circuit Boards,Electronics,528,139,1274,120,63360,High,Stock Available
+25,WH-03,Berlin Depot,Germany,P-005,Rubber Seals,Components,629,71,873,3.25,2044.25,High,Stock Available
+26,WH-03,Berlin Depot,Germany,P-006,Copper Wire,Raw Material,368,80,800,22,8096,High,Stock Available
+27,WH-03,Berlin Depot,Germany,P-007,Aluminum Sheets,Raw Material,999,70,977,18.5,18481.5,High,Stock Available
+28,WH-03,Berlin Depot,Germany,P-008,Adhesive Compounds,Chemicals,282,149,1618,9,2538,Normal,Stock Available
+29,WH-03,Berlin Depot,Germany,P-009,LED Displays,Electronics,361,135,1609,85,30685,High,Stock Available
+30,WH-03,Berlin Depot,Germany,P-010,Bolt & Nut Sets,Hardware,415,125,1210,2.5,1037.5,High,Stock Available
+31,WH-04,Shanghai East,China,P-001,Electronic Components,Electronics,530,51,940,45,23850,High,Stock Available
+32,WH-04,Shanghai East,China,P-002,Steel Rods,Raw Material,941,61,1925,8.5,7998.5,High,Stock Available
+33,WH-04,Shanghai East,China,P-003,Plastic Casings,Packaging,291,142,1945,15.75,4583.25,High,Stock Available
+34,WH-04,Shanghai East,China,P-004,Circuit Boards,Electronics,936,124,1512,120,112320,High,Stock Available
+35,WH-04,Shanghai East,China,P-005,Rubber Seals,Components,355,85,1263,3.25,1153.75,High,Stock Available
+36,WH-04,Shanghai East,China,P-006,Copper Wire,Raw Material,620,74,1731,22,13640,High,Stock Available
+37,WH-04,Shanghai East,China,P-007,Aluminum Sheets,Raw Material,952,101,1977,18.5,17612,High,Stock Available
+38,WH-04,Shanghai East,China,P-008,Adhesive Compounds,Chemicals,4,83,1158,9,36,Critical,Stockout Risk
+39,WH-04,Shanghai East,China,P-009,LED Displays,Electronics,416,114,1018,85,35360,High,Stock Available
+40,WH-04,Shanghai East,China,P-010,Bolt & Nut Sets,Hardware,572,59,1830,2.5,1430,High,Stock Available
+41,WH-05,São Paulo North,Brazil,P-001,Electronic Components,Electronics,301,93,1039,45,13545,High,Stock Available
+42,WH-05,São Paulo North,Brazil,P-002,Steel Rods,Raw Material,822,115,1327,8.5,6987,High,Stock Available
+43,WH-05,São Paulo North,Brazil,P-003,Plastic Casings,Packaging,897,118,1977,15.75,14127.75,High,Stock Available
+44,WH-05,São Paulo North,Brazil,P-004,Circuit Boards,Electronics,256,138,1706,120,30720,Normal,Stock Available
+45,WH-05,São Paulo North,Brazil,P-005,Rubber Seals,Components,989,98,1953,3.25,3214.25,High,Stock Available
+46,WH-05,São Paulo North,Brazil,P-006,Copper Wire,Raw Material,495,148,1298,22,10890,High,Stock Available
+47,WH-05,São Paulo North,Brazil,P-007,Aluminum Sheets,Raw Material,775,93,1739,18.5,14337.5,High,Stock Available
+48,WH-05,São Paulo North,Brazil,P-008,Adhesive Compounds,Chemicals,697,108,856,9,6273,High,Stock Available
+49,WH-05,São Paulo North,Brazil,P-009,LED Displays,Electronics,493,64,1328,85,41905,High,Stock Available
+50,WH-05,São Paulo North,Brazil,P-010,Bolt & Nut Sets,Hardware,69,98,1251,2.5,172.5,Low,Stockout Risk

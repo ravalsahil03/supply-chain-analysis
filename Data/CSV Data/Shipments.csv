@@ -1,0 +1,301 @@
+Shipment_ID,Shipment_Date,Origin_Warehouse,Index_Number,Origin_Country,Dest_Warehouse,Dest_Country,Carrier,Transport_Mode,Weight_kg,Distance_km,Freight_Cost,Transit_Days,Arrival_Date,Shipment_Status
+SHP-0001,2023-06-07,São Paulo North,1,Brazil,Berlin Depot,Germany,DB Schenker,Air,392.9,11060,21727.37,24,2023-07-01,Delivered
+SHP-0002,2024-10-22,Chicago Hub,2,USA,São Paulo North,Brazil,Maersk Logistics,Sea,1652,9648,19126.2,26,2024-11-17,In Transit
+SHP-0003,2023-09-14,Chicago Hub,3,USA,Mumbai Central,India,FedEx Freight,Road,1855,2707,12553.71,30,2023-10-14,In Transit
+SHP-0004,2024-07-10,Shanghai East,4,China,Berlin Depot,Germany,Maersk Logistics,Road,1029.9,3557,9158.39,13,2024-07-23,Delayed
+SHP-0005,2024-04-05,Shanghai East,5,China,Berlin Depot,Germany,Maersk Logistics,Sea,437.5,3039,1595.47,11,2024-04-16,Delayed
+SHP-0006,2024-01-24,Berlin Depot,6,Germany,São Paulo North,Brazil,DHL Supply Chain,Air,3902,8789,171473.39,25,2024-02-18,Delivered
+SHP-0007,2024-11-05,São Paulo North,7,Brazil,Berlin Depot,Germany,UPS Supply Chain,Sea,1671.4,1537,3082.73,19,2024-11-24,Delivered
+SHP-0008,2024-02-24,São Paulo North,8,Brazil,Shanghai East,China,Maersk Logistics,Sea,3103.9,5785,21547.27,22,2024-03-17,Delivered
+SHP-0009,2023-07-02,Mumbai Central,9,India,Chicago Hub,USA,FedEx Freight,Air,4192.4,2626,55046.21,29,2023-07-31,Delivered
+SHP-0010,2024-10-19,Mumbai Central,10,India,São Paulo North,Brazil,UPS Supply Chain,Sea,583.9,9855,6905.2,28,2024-11-16,Delayed
+SHP-0011,2023-03-14,Shanghai East,11,China,Berlin Depot,Germany,DHL Supply Chain,Air,1895.1,10427,98801.04,2,2023-03-16,Delayed
+SHP-0012,2024-01-05,Shanghai East,12,China,Mumbai Central,India,UPS Supply Chain,Road,4025,1494,15033.38,19,2024-01-24,In Transit
+SHP-0013,2023-11-08,Mumbai Central,13,India,Shanghai East,China,DHL Supply Chain,Air,3698.1,14171,262028.88,4,2023-11-12,Delayed
+SHP-0014,2023-07-17,Mumbai Central,14,India,Chicago Hub,USA,DHL Supply Chain,Sea,2705.1,3604,11699.02,18,2023-08-04,Delayed
+SHP-0015,2024-01-02,Chicago Hub,15,USA,São Paulo North,Brazil,UPS Supply Chain,Air,3854.8,9946,191699.2,23,2024-01-25,Delayed
+SHP-0016,2024-02-16,Shanghai East,16,China,Mumbai Central,India,Maersk Logistics,Sea,3983.1,9510,45455.14,18,2024-03-05,Delayed
+SHP-0017,2023-11-29,Chicago Hub,17,USA,São Paulo North,Brazil,Maersk Logistics,Rail,4522.2,9512,77427.3,29,2023-12-28,In Transit
+SHP-0018,2024-01-20,Shanghai East,18,China,Berlin Depot,Germany,DB Schenker,Sea,2859.4,4004,13738.85,26,2024-02-15,Delayed
+SHP-0019,2023-01-01,Berlin Depot,19,Germany,Shanghai East,China,FedEx Freight,Road,2292.7,7005,40150.91,25,2023-01-26,In Transit
+SHP-0020,2023-01-07,São Paulo North,20,Brazil,Mumbai Central,India,DHL Supply Chain,Sea,4967.7,5445,32458.95,11,2023-01-18,Delivered
+SHP-0021,2024-07-23,Berlin Depot,21,Germany,Mumbai Central,India,DB Schenker,Rail,4603.6,8876,73550.8,20,2024-08-12,Delivered
+SHP-0022,2023-09-29,Mumbai Central,22,India,Chicago Hub,USA,DB Schenker,Road,1842.7,2767,12746.88,13,2023-10-12,Delivered
+SHP-0023,2024-08-05,Chicago Hub,23,USA,Shanghai East,China,FedEx Freight,Rail,550.3,7050,6983.31,8,2024-08-13,Delayed
+SHP-0024,2024-12-20,Berlin Depot,24,Germany,São Paulo North,Brazil,FedEx Freight,Sea,2492.6,11798,35289.23,20,2025-01-09,Delayed
+SHP-0025,2023-12-09,Berlin Depot,25,Germany,Mumbai Central,India,UPS Supply Chain,Road,484.5,1416,1715.13,13,2023-12-22,In Transit
+SHP-0026,2024-01-27,Mumbai Central,26,India,Berlin Depot,Germany,Maersk Logistics,Air,3206,10857,174037.71,3,2024-01-30,Delayed
+SHP-0027,2023-08-15,Mumbai Central,27,India,Shanghai East,China,FedEx Freight,Sea,1701.5,11932,24362.76,6,2023-08-21,Delayed
+SHP-0028,2024-02-08,Shanghai East,28,China,São Paulo North,Brazil,DHL Supply Chain,Air,1188.2,5247,31172.43,6,2024-02-14,In Transit
+SHP-0029,2023-03-29,Mumbai Central,29,India,São Paulo North,Brazil,DB Schenker,Air,2785.9,4801,66875.53,14,2023-04-12,In Transit
+SHP-0030,2024-02-09,Chicago Hub,30,USA,Berlin Depot,Germany,DB Schenker,Road,2840.6,8493,60313.04,22,2024-03-02,Delivered
+SHP-0031,2024-03-16,São Paulo North,31,Brazil,Chicago Hub,USA,DB Schenker,Sea,451.1,13226,7159.5,12,2024-03-28,Delivered
+SHP-0032,2023-11-25,Mumbai Central,32,India,São Paulo North,Brazil,DB Schenker,Road,1889.8,3620,17102.69,13,2023-12-08,Delayed
+SHP-0033,2024-03-28,Mumbai Central,33,India,Shanghai East,China,DHL Supply Chain,Sea,4939.5,10596,62806.73,21,2024-04-18,In Transit
+SHP-0034,2023-03-29,Mumbai Central,34,India,Berlin Depot,Germany,FedEx Freight,Sea,3458.3,3055,12678.13,5,2023-04-03,Delivered
+SHP-0035,2023-04-24,São Paulo North,35,Brazil,Chicago Hub,USA,UPS Supply Chain,Rail,167.3,11867,3573.63,11,2023-05-05,In Transit
+SHP-0036,2023-07-28,Mumbai Central,36,India,Shanghai East,China,DB Schenker,Sea,3726.1,3971,17755.61,19,2023-08-16,In Transit
+SHP-0037,2023-01-19,São Paulo North,37,Brazil,Shanghai East,China,DB Schenker,Sea,3505.8,11448,48161.28,14,2023-02-02,Delayed
+SHP-0038,2023-07-25,São Paulo North,38,Brazil,Mumbai Central,India,DB Schenker,Rail,934.6,5153,8668.79,27,2023-08-21,In Transit
+SHP-0039,2023-10-05,Mumbai Central,39,India,São Paulo North,Brazil,Maersk Logistics,Air,426.3,11319,24126.45,23,2023-10-28,Delivered
+SHP-0040,2024-06-04,Mumbai Central,40,India,Shanghai East,China,FedEx Freight,Road,1232.7,6737,20761.75,24,2024-06-28,In Transit
+SHP-0041,2024-07-28,Shanghai East,41,China,Mumbai Central,India,FedEx Freight,Sea,1074.5,8003,10319.07,24,2024-08-21,Delivered
+SHP-0042,2023-06-10,Chicago Hub,42,USA,Shanghai East,China,Maersk Logistics,Rail,2500.7,12696,57148,2,2023-06-12,Delayed
+SHP-0043,2023-10-10,Berlin Depot,43,Germany,Shanghai East,China,FedEx Freight,Rail,1257.4,8712,19718.04,27,2023-11-06,Delayed
+SHP-0044,2023-08-19,Berlin Depot,44,Germany,São Paulo North,Brazil,Maersk Logistics,Air,4726.3,5090,120284.34,6,2023-08-25,In Transit
+SHP-0045,2024-09-19,Chicago Hub,45,USA,Mumbai Central,India,DHL Supply Chain,Road,2651.5,11608,76946.53,29,2024-10-18,In Transit
+SHP-0046,2023-12-04,Chicago Hub,46,USA,Berlin Depot,Germany,DB Schenker,Road,4855.6,10418,126464.1,16,2023-12-20,Delivered
+SHP-0047,2024-12-06,Chicago Hub,47,USA,Berlin Depot,Germany,DB Schenker,Sea,4326.7,5562,28878.13,24,2024-12-30,Delivered
+SHP-0048,2024-06-29,Shanghai East,48,China,Chicago Hub,USA,FedEx Freight,Sea,1655.7,9631,19135.26,25,2024-07-24,Delivered
+SHP-0049,2024-02-28,Berlin Depot,49,Germany,Chicago Hub,USA,Maersk Logistics,Air,3850.6,14920,287254.76,15,2024-03-14,In Transit
+SHP-0050,2023-01-27,Berlin Depot,50,Germany,Chicago Hub,USA,DB Schenker,Sea,623.2,3526,2636.88,26,2023-02-22,Delayed
+SHP-0051,2024-01-03,Berlin Depot,51,Germany,Chicago Hub,USA,UPS Supply Chain,Sea,1231.5,927,1369.92,4,2024-01-07,Delivered
+SHP-0052,2024-05-18,São Paulo North,52,Brazil,Shanghai East,China,DHL Supply Chain,Rail,1001.5,6848,12344.89,17,2024-06-04,Delivered
+SHP-0053,2023-10-04,Chicago Hub,53,USA,Berlin Depot,Germany,DHL Supply Chain,Air,2102.1,745,7830.32,15,2023-10-19,Delayed
+SHP-0054,2024-09-23,Chicago Hub,54,USA,Berlin Depot,Germany,Maersk Logistics,Air,967.7,7697,37241.93,17,2024-10-10,In Transit
+SHP-0055,2024-01-25,Chicago Hub,55,USA,São Paulo North,Brazil,Maersk Logistics,Road,3903.5,10460,102076.52,25,2024-02-19,In Transit
+SHP-0056,2023-02-13,São Paulo North,56,Brazil,Mumbai Central,India,DHL Supply Chain,Air,2312.9,14049,162469.66,30,2023-03-15,Delayed
+SHP-0057,2024-10-07,São Paulo North,57,Brazil,Shanghai East,China,DHL Supply Chain,Air,2832.7,8956,126848.31,3,2024-10-10,In Transit
+SHP-0058,2024-04-17,Shanghai East,58,China,São Paulo North,Brazil,UPS Supply Chain,Rail,3891,5184,36307.7,7,2024-04-24,In Transit
+SHP-0059,2024-04-07,São Paulo North,59,Brazil,Mumbai Central,India,DB Schenker,Sea,2371.5,11085,31545.69,4,2024-04-11,Delivered
+SHP-0060,2023-01-26,Chicago Hub,60,USA,Berlin Depot,Germany,UPS Supply Chain,Road,2126.4,7887,41927.29,7,2023-02-02,Delayed
+SHP-0061,2024-10-26,Chicago Hub,61,USA,São Paulo North,Brazil,DHL Supply Chain,Air,1325.4,11833,78417.29,24,2024-11-19,Delayed
+SHP-0062,2024-01-07,Mumbai Central,62,India,Chicago Hub,USA,DB Schenker,Air,3560.5,10888,193833.62,4,2024-01-11,Delayed
+SHP-0063,2023-06-24,Shanghai East,63,China,Chicago Hub,USA,DB Schenker,Road,2796.7,1219,8522.94,12,2023-07-06,Delayed
+SHP-0064,2023-02-22,Chicago Hub,64,USA,Berlin Depot,Germany,Maersk Logistics,Sea,976.4,12166,14254.66,15,2023-03-09,In Transit
+SHP-0065,2023-07-27,Shanghai East,65,China,Berlin Depot,Germany,DB Schenker,Sea,676,2655,2153.74,2,2023-07-29,In Transit
+SHP-0066,2023-01-06,Mumbai Central,66,India,São Paulo North,Brazil,UPS Supply Chain,Road,4291.5,9404,100893.16,21,2023-01-27,Delivered
+SHP-0067,2024-09-07,Chicago Hub,67,USA,São Paulo North,Brazil,FedEx Freight,Road,2109.7,1800,9493.65,21,2024-09-28,Delivered
+SHP-0068,2023-02-26,São Paulo North,68,Brazil,Berlin Depot,Germany,Maersk Logistics,Sea,339.7,2929,1193.98,22,2023-03-20,Delivered
+SHP-0069,2023-02-20,Chicago Hub,69,USA,Mumbai Central,India,UPS Supply Chain,Rail,1722.4,1936,6002.22,5,2023-02-25,Delivered
+SHP-0070,2024-08-15,Chicago Hub,70,USA,Shanghai East,China,FedEx Freight,Sea,4834.8,12777,74129.09,13,2024-08-28,Delivered
+SHP-0071,2023-03-11,Berlin Depot,71,Germany,Shanghai East,China,UPS Supply Chain,Rail,4497.9,13939,112853.21,26,2023-04-06,Delayed
+SHP-0072,2023-10-09,Mumbai Central,72,India,Shanghai East,China,DB Schenker,Road,759.3,11880,22551.21,12,2023-10-21,In Transit
+SHP-0073,2024-08-08,São Paulo North,73,Brazil,Chicago Hub,USA,DB Schenker,Sea,3099.1,2290,8516.33,25,2024-09-02,Delivered
+SHP-0074,2023-09-23,Shanghai East,74,China,Berlin Depot,Germany,DB Schenker,Road,3083.3,5685,43821.4,18,2023-10-11,Delayed
+SHP-0075,2024-05-24,Berlin Depot,75,Germany,Chicago Hub,USA,DHL Supply Chain,Road,2646.6,10852,71802.26,17,2024-06-10,Delayed
+SHP-0076,2024-04-21,Chicago Hub,76,USA,Shanghai East,China,FedEx Freight,Sea,107.7,892,115.28,22,2024-05-13,Delayed
+SHP-0077,2024-07-27,Chicago Hub,77,USA,São Paulo North,Brazil,DHL Supply Chain,Road,322.9,6228,5027.55,27,2024-08-23,Delivered
+SHP-0078,2023-11-04,Chicago Hub,78,USA,Shanghai East,China,DB Schenker,Rail,3972,5542,39623.08,18,2023-11-22,In Transit
+SHP-0079,2024-08-05,Mumbai Central,79,India,Chicago Hub,USA,FedEx Freight,Rail,1772.7,12368,39464.56,21,2024-08-26,Delivered
+SHP-0080,2024-04-30,Chicago Hub,80,USA,Shanghai East,China,FedEx Freight,Rail,4619.2,8349,69418.26,27,2024-05-27,Delayed
+SHP-0081,2024-07-03,Chicago Hub,81,USA,São Paulo North,Brazil,Maersk Logistics,Sea,3173.3,14675,55881.81,30,2024-08-02,In Transit
+SHP-0082,2023-11-20,Shanghai East,82,China,Mumbai Central,India,DB Schenker,Rail,2868.2,11611,59944.81,19,2023-12-09,Delivered
+SHP-0083,2023-10-15,Chicago Hub,83,USA,Shanghai East,China,FedEx Freight,Rail,424.4,2946,2250.51,28,2023-11-12,In Transit
+SHP-0084,2023-11-12,Shanghai East,84,China,Chicago Hub,USA,Maersk Logistics,Road,1018.2,2414,6144.84,24,2023-12-06,Delayed
+SHP-0085,2023-09-01,Mumbai Central,85,India,Shanghai East,China,UPS Supply Chain,Road,525.3,14869,19526.71,13,2023-09-14,In Transit
+SHP-0086,2023-02-08,Chicago Hub,86,USA,Shanghai East,China,DHL Supply Chain,Sea,649.9,13360,10419.2,26,2023-03-06,Delivered
+SHP-0087,2023-07-14,Shanghai East,87,China,Mumbai Central,India,UPS Supply Chain,Road,4534.3,3024,34279.31,12,2023-07-26,Delayed
+SHP-0088,2023-04-11,São Paulo North,88,Brazil,Berlin Depot,Germany,DB Schenker,Rail,802.1,14783,21343.4,28,2023-05-09,Delayed
+SHP-0089,2024-06-18,Chicago Hub,89,USA,Berlin Depot,Germany,FedEx Freight,Air,2350.9,12192,143310.86,5,2024-06-23,In Transit
+SHP-0090,2023-04-16,Mumbai Central,90,India,Chicago Hub,USA,Maersk Logistics,Rail,2387.7,1255,5393.81,18,2023-05-04,Delivered
+SHP-0091,2023-10-21,São Paulo North,91,Brazil,Berlin Depot,Germany,DB Schenker,Sea,1672.3,3654,7332.7,10,2023-10-31,In Transit
+SHP-0092,2023-04-28,Shanghai East,92,China,Mumbai Central,India,DB Schenker,Rail,831.7,4983,7459.85,2,2023-04-30,Delayed
+SHP-0093,2023-11-23,São Paulo North,93,Brazil,Mumbai Central,India,DHL Supply Chain,Sea,2758.4,9500,31445.76,10,2023-12-03,Delayed
+SHP-0094,2023-12-13,Berlin Depot,94,Germany,Chicago Hub,USA,UPS Supply Chain,Sea,449.1,10547,5683.99,19,2024-01-01,Delivered
+SHP-0095,2023-04-19,Chicago Hub,95,USA,Mumbai Central,India,FedEx Freight,Road,4526.1,1326,15004.02,14,2023-05-03,Delivered
+SHP-0096,2024-10-06,Shanghai East,96,China,São Paulo North,Brazil,UPS Supply Chain,Sea,3552.9,10211,43534.39,28,2024-11-03,Delayed
+SHP-0097,2024-11-17,Berlin Depot,97,Germany,Shanghai East,China,DB Schenker,Rail,4105.5,12180,90008.98,27,2024-12-14,Delivered
+SHP-0098,2024-04-24,Shanghai East,98,China,Chicago Hub,USA,UPS Supply Chain,Air,4083,11945,243857.17,5,2024-04-29,In Transit
+SHP-0099,2024-09-23,Shanghai East,99,China,São Paulo North,Brazil,Maersk Logistics,Sea,4742.5,2854,16242.11,10,2024-10-03,In Transit
+SHP-0100,2023-03-08,Chicago Hub,100,USA,Shanghai East,China,FedEx Freight,Rail,2321.1,995,4157.09,17,2023-03-25,In Transit
+SHP-0101,2024-09-10,Shanghai East,101,China,São Paulo North,Brazil,DHL Supply Chain,Sea,1483.1,6211,11053.84,20,2024-09-30,Delayed
+SHP-0102,2023-03-14,Mumbai Central,102,India,São Paulo North,Brazil,Maersk Logistics,Air,1696.8,11140,94511.76,27,2023-04-10,Delayed
+SHP-0103,2024-07-15,Shanghai East,103,China,São Paulo North,Brazil,UPS Supply Chain,Road,1269,4492,14250.87,7,2024-07-22,In Transit
+SHP-0104,2024-03-17,Mumbai Central,104,India,Shanghai East,China,UPS Supply Chain,Sea,4088.2,10182,49951.26,27,2024-04-13,Delayed
+SHP-0105,2024-12-29,Berlin Depot,105,Germany,Chicago Hub,USA,UPS Supply Chain,Sea,3346.8,1776,7132.7,20,2025-01-18,Delivered
+SHP-0106,2024-03-31,São Paulo North,106,Brazil,Shanghai East,China,Maersk Logistics,Rail,2819.9,13968,70899.05,7,2024-04-07,In Transit
+SHP-0107,2024-11-07,Mumbai Central,107,India,Chicago Hub,USA,FedEx Freight,Road,1704.3,11067,47153.72,3,2024-11-10,Delivered
+SHP-0108,2024-06-28,Chicago Hub,108,USA,Mumbai Central,India,UPS Supply Chain,Sea,3338.3,7921,31731.21,11,2024-07-09,Delayed
+SHP-0109,2023-11-21,São Paulo North,109,Brazil,Shanghai East,China,DB Schenker,Sea,1107.7,14875,19772.44,11,2023-12-02,Delayed
+SHP-0110,2023-01-09,Berlin Depot,110,Germany,São Paulo North,Brazil,DB Schenker,Rail,4952.4,10047,89562.17,21,2023-01-30,In Transit
+SHP-0111,2023-02-24,Chicago Hub,111,USA,Shanghai East,China,DB Schenker,Air,1909.2,9492,90610.63,2,2023-02-26,In Transit
+SHP-0112,2024-08-27,Mumbai Central,112,India,Shanghai East,China,Maersk Logistics,Air,1252.7,12005,75193.32,14,2024-09-10,Delayed
+SHP-0113,2024-11-09,Shanghai East,113,China,São Paulo North,Brazil,UPS Supply Chain,Road,2232.4,3960,22100.76,7,2024-11-16,Delivered
+SHP-0114,2023-10-23,Chicago Hub,114,USA,São Paulo North,Brazil,DHL Supply Chain,Rail,4215.8,3027,22970.21,29,2023-11-21,Delivered
+SHP-0115,2024-05-13,Mumbai Central,115,India,Chicago Hub,USA,UPS Supply Chain,Air,805.6,14998,60411.94,23,2024-06-05,Delivered
+SHP-0116,2024-12-13,Mumbai Central,116,India,Berlin Depot,Germany,UPS Supply Chain,Road,4314.7,13425,144812.12,21,2025-01-03,Delayed
+SHP-0117,2024-01-29,Chicago Hub,117,USA,São Paulo North,Brazil,DHL Supply Chain,Road,2805,7873,55209.41,13,2024-02-11,Delivered
+SHP-0118,2024-12-30,Shanghai East,118,China,Mumbai Central,India,Maersk Logistics,Road,4249.3,4378,46508.59,18,2025-01-17,In Transit
+SHP-0119,2024-05-09,São Paulo North,119,Brazil,Berlin Depot,Germany,Maersk Logistics,Air,4893.3,9808,239967.43,24,2024-06-02,Delivered
+SHP-0120,2024-06-23,São Paulo North,120,Brazil,Shanghai East,China,Maersk Logistics,Air,796.2,12481,49686.86,29,2024-07-22,In Transit
+SHP-0121,2024-11-10,São Paulo North,121,Brazil,Mumbai Central,India,FedEx Freight,Air,1301.6,10832,70494.66,23,2024-12-03,Delayed
+SHP-0122,2023-01-12,São Paulo North,122,Brazil,Berlin Depot,Germany,UPS Supply Chain,Air,4527.6,9265,209741.07,17,2023-01-29,Delayed
+SHP-0123,2023-10-29,Shanghai East,123,China,Berlin Depot,Germany,DHL Supply Chain,Road,1829.3,13578,62095.59,11,2023-11-09,Delivered
+SHP-0124,2024-08-15,São Paulo North,124,Brazil,Berlin Depot,Germany,DB Schenker,Rail,400.9,8252,5954.81,7,2024-08-22,Delivered
+SHP-0125,2024-06-01,Berlin Depot,125,Germany,Mumbai Central,India,Maersk Logistics,Rail,2475.3,2577,11481.93,4,2024-06-05,In Transit
+SHP-0126,2023-04-25,Chicago Hub,126,USA,Shanghai East,China,DHL Supply Chain,Rail,4303.5,732,5670.29,21,2023-05-16,Delayed
+SHP-0127,2024-12-18,Chicago Hub,127,USA,São Paulo North,Brazil,UPS Supply Chain,Rail,4058.4,4780,34918.47,9,2024-12-27,Delivered
+SHP-0128,2024-09-01,São Paulo North,128,Brazil,Mumbai Central,India,DHL Supply Chain,Rail,4922,2876,25480.21,28,2024-09-29,In Transit
+SHP-0129,2024-10-14,Shanghai East,129,China,São Paulo North,Brazil,DHL Supply Chain,Sea,3337.3,12394,49635,7,2024-10-21,Delayed
+SHP-0130,2023-02-23,Berlin Depot,130,Germany,Mumbai Central,India,UPS Supply Chain,Rail,3801.9,2400,16424.21,7,2023-03-02,In Transit
+SHP-0131,2024-06-29,Shanghai East,131,China,Berlin Depot,Germany,UPS Supply Chain,Road,3756.1,12827,120448.74,9,2024-07-08,Delayed
+SHP-0132,2024-03-21,Shanghai East,132,China,São Paulo North,Brazil,Maersk Logistics,Rail,811.2,14758,21549.04,2,2024-03-23,In Transit
+SHP-0133,2024-10-14,Shanghai East,133,China,Berlin Depot,Germany,UPS Supply Chain,Air,577.1,9204,26558.14,13,2024-10-27,Delayed
+SHP-0134,2023-09-19,Berlin Depot,134,Germany,Shanghai East,China,DB Schenker,Rail,1408.7,2110,5350.24,22,2023-10-11,In Transit
+SHP-0135,2024-12-07,Shanghai East,135,China,Chicago Hub,USA,Maersk Logistics,Sea,2647.8,11603,36866.91,7,2024-12-14,Delayed
+SHP-0136,2024-06-21,Mumbai Central,136,India,Chicago Hub,USA,UPS Supply Chain,Air,158.6,2100,1665.3,5,2024-06-26,In Transit
+SHP-0137,2024-09-26,Chicago Hub,137,USA,Shanghai East,China,FedEx Freight,Rail,1046.1,888,1672.09,4,2024-09-30,Delayed
+SHP-0138,2023-05-14,Chicago Hub,138,USA,Mumbai Central,India,DB Schenker,Air,523.3,10407,27229.92,14,2023-05-28,Delivered
+SHP-0139,2023-03-19,Mumbai Central,139,India,Berlin Depot,Germany,UPS Supply Chain,Rail,1543.4,11321,31451.1,22,2023-04-10,In Transit
+SHP-0140,2023-10-11,Shanghai East,140,China,Berlin Depot,Germany,FedEx Freight,Rail,893.6,1712,2753.72,26,2023-11-06,In Transit
+SHP-0141,2023-09-29,Shanghai East,141,China,Berlin Depot,Germany,UPS Supply Chain,Air,1365.4,13816,94321.83,7,2023-10-06,Delivered
+SHP-0142,2023-04-22,Shanghai East,142,China,Chicago Hub,USA,DB Schenker,Road,974.4,8561,20854.6,6,2023-04-28,In Transit
+SHP-0143,2023-02-05,Chicago Hub,143,USA,Mumbai Central,India,FedEx Freight,Road,3605.5,2192,19758.14,4,2023-02-09,Delayed
+SHP-0144,2024-10-30,Berlin Depot,144,Germany,São Paulo North,Brazil,FedEx Freight,Air,4492.9,2938,66000.7,22,2024-11-21,Delivered
+SHP-0145,2024-08-11,Shanghai East,145,China,Berlin Depot,Germany,DB Schenker,Sea,3530.3,6911,29277.48,2,2024-08-13,Delayed
+SHP-0146,2023-03-13,Shanghai East,146,China,São Paulo North,Brazil,DHL Supply Chain,Road,2079.2,12423,64574.75,19,2023-04-01,Delivered
+SHP-0147,2023-12-08,Shanghai East,147,China,São Paulo North,Brazil,Maersk Logistics,Air,2879.5,6380,91856.05,23,2023-12-31,In Transit
+SHP-0148,2023-03-24,Mumbai Central,148,India,Chicago Hub,USA,UPS Supply Chain,Rail,2719.7,6071,29720.34,28,2023-04-21,In Transit
+SHP-0149,2023-07-15,Chicago Hub,149,USA,Berlin Depot,Germany,UPS Supply Chain,Air,4840.8,11325,274110.3,11,2023-07-26,Delivered
+SHP-0150,2023-07-14,Berlin Depot,150,Germany,São Paulo North,Brazil,FedEx Freight,Air,4437.5,7675,170289.06,6,2023-07-20,Delivered
+SHP-0151,2024-07-07,Mumbai Central,151,India,Berlin Depot,Germany,Maersk Logistics,Road,2005,13488,67608.6,22,2024-07-29,In Transit
+SHP-0152,2023-12-12,São Paulo North,152,Brazil,Shanghai East,China,FedEx Freight,Air,281.5,1418,1995.84,27,2024-01-08,In Transit
+SHP-0153,2024-07-03,Mumbai Central,153,India,Berlin Depot,Germany,DB Schenker,Road,4706.4,14757,173630.86,6,2024-07-09,Delivered
+SHP-0154,2024-04-27,Mumbai Central,154,India,Chicago Hub,USA,FedEx Freight,Sea,2495.6,812,2431.71,21,2024-05-18,Delivered
+SHP-0155,2023-04-10,Chicago Hub,155,USA,Mumbai Central,India,DB Schenker,Sea,3200,5535,21254.4,16,2023-04-26,Delivered
+SHP-0156,2024-09-22,São Paulo North,156,Brazil,Mumbai Central,India,FedEx Freight,Air,659.5,10248,33792.78,9,2024-10-01,Delivered
+SHP-0157,2024-08-12,Shanghai East,157,China,Berlin Depot,Germany,DHL Supply Chain,Road,1688.8,11708,49431.18,19,2024-08-31,In Transit
+SHP-0158,2023-10-08,Chicago Hub,158,USA,Mumbai Central,India,UPS Supply Chain,Sea,1744,2478,5185.96,6,2023-10-14,Delivered
+SHP-0159,2023-02-11,Berlin Depot,159,Germany,Chicago Hub,USA,FedEx Freight,Road,1293.9,10035,32460.72,6,2023-02-17,Delayed
+SHP-0160,2023-03-24,São Paulo North,160,Brazil,Shanghai East,China,FedEx Freight,Sea,176.6,8478,1796.66,2,2023-03-26,Delivered
+SHP-0161,2024-05-02,Mumbai Central,161,India,Shanghai East,China,DHL Supply Chain,Road,3498.2,13480,117889.34,24,2024-05-26,Delivered
+SHP-0162,2024-09-17,Chicago Hub,162,USA,Shanghai East,China,FedEx Freight,Road,2119,3359,17794.3,24,2024-10-11,Delayed
+SHP-0163,2023-11-05,Chicago Hub,163,USA,São Paulo North,Brazil,UPS Supply Chain,Air,3173.2,13321,211350.99,13,2023-11-18,Delivered
+SHP-0164,2023-04-08,São Paulo North,164,Brazil,Chicago Hub,USA,Maersk Logistics,Sea,675.8,9186,7449.48,21,2023-04-29,Delayed
+SHP-0165,2023-08-02,São Paulo North,165,Brazil,Chicago Hub,USA,FedEx Freight,Road,3874.6,11302,109476.82,10,2023-08-12,Delivered
+SHP-0166,2024-11-17,Mumbai Central,166,India,Berlin Depot,Germany,FedEx Freight,Road,2537.8,3117,19775.81,3,2024-11-20,Delayed
+SHP-0167,2024-09-23,Berlin Depot,167,Germany,Shanghai East,China,UPS Supply Chain,Sea,2229.9,5977,15993.73,27,2024-10-20,Delivered
+SHP-0168,2024-05-11,Mumbai Central,168,India,Chicago Hub,USA,FedEx Freight,Sea,874.4,976,1024.1,18,2024-05-29,Delivered
+SHP-0169,2024-11-24,Chicago Hub,169,USA,São Paulo North,Brazil,Maersk Logistics,Rail,2153.4,12740,49381.77,30,2024-12-24,Delivered
+SHP-0170,2024-02-27,Mumbai Central,170,India,Shanghai East,China,DHL Supply Chain,Sea,580.5,12587,8768.1,29,2024-03-27,In Transit
+SHP-0171,2024-03-22,Chicago Hub,171,USA,Mumbai Central,India,DHL Supply Chain,Road,2967,1390,10310.33,6,2024-03-28,Delayed
+SHP-0172,2023-07-18,Shanghai East,172,China,Chicago Hub,USA,Maersk Logistics,Road,1930.1,7999,38597.17,22,2023-08-09,In Transit
+SHP-0173,2023-03-03,Chicago Hub,173,USA,Shanghai East,China,DHL Supply Chain,Sea,257.3,9817,3031.1,10,2023-03-13,Delivered
+SHP-0174,2023-08-14,Shanghai East,174,China,São Paulo North,Brazil,Maersk Logistics,Road,938.9,6129,14386.3,30,2023-09-13,Delayed
+SHP-0175,2024-06-18,Chicago Hub,175,USA,Berlin Depot,Germany,DHL Supply Chain,Sea,523.7,14540,9137.52,17,2024-07-05,Delayed
+SHP-0176,2023-09-10,Shanghai East,176,China,São Paulo North,Brazil,Maersk Logistics,Rail,171.1,7514,2314.16,9,2023-09-19,In Transit
+SHP-0177,2024-03-03,São Paulo North,177,Brazil,Chicago Hub,USA,FedEx Freight,Sea,4577.4,583,3202.35,3,2024-03-06,In Transit
+SHP-0178,2024-12-14,São Paulo North,178,Brazil,Mumbai Central,India,FedEx Freight,Road,2702.5,8352,56428.2,28,2025-01-11,In Transit
+SHP-0179,2024-12-10,Shanghai East,179,China,Chicago Hub,USA,UPS Supply Chain,Air,2836.6,703,9970.65,25,2025-01-04,Delivered
+SHP-0180,2023-01-17,Chicago Hub,180,USA,Shanghai East,China,Maersk Logistics,Rail,1271.4,1986,4545,17,2023-02-03,Delivered
+SHP-0181,2024-12-21,Shanghai East,181,China,Mumbai Central,India,DHL Supply Chain,Road,2372.4,2771,16434.8,14,2025-01-04,In Transit
+SHP-0182,2023-12-07,Shanghai East,182,China,Mumbai Central,India,FedEx Freight,Air,1985.9,11817,117336.9,18,2023-12-25,In Transit
+SHP-0183,2024-09-27,Shanghai East,183,China,Berlin Depot,Germany,Maersk Logistics,Sea,3959.7,1826,8676.49,30,2024-10-27,Delayed
+SHP-0184,2024-04-21,Mumbai Central,184,India,Shanghai East,China,FedEx Freight,Air,643.7,6489,20884.85,21,2024-05-12,In Transit
+SHP-0185,2023-07-29,Berlin Depot,185,Germany,Chicago Hub,USA,Maersk Logistics,Air,2847.7,13174,187578,6,2023-08-04,Delivered
+SHP-0186,2024-08-17,São Paulo North,186,Brazil,Mumbai Central,India,DHL Supply Chain,Road,3713.2,12825,119054.48,29,2024-09-15,Delayed
+SHP-0187,2024-11-27,Chicago Hub,187,USA,Shanghai East,China,Maersk Logistics,Rail,4499.9,8750,70873.43,15,2024-12-12,Delivered
+SHP-0188,2024-06-23,Mumbai Central,188,India,Shanghai East,China,FedEx Freight,Rail,2316.8,8715,36343.64,28,2024-07-21,In Transit
+SHP-0189,2024-11-20,São Paulo North,189,Brazil,Berlin Depot,Germany,FedEx Freight,Road,3142.7,13605,106891.08,24,2024-12-14,Delivered
+SHP-0190,2023-10-23,Shanghai East,190,China,Mumbai Central,India,FedEx Freight,Air,2014.3,3429,34535.17,4,2023-10-27,Delivered
+SHP-0191,2023-07-29,Berlin Depot,191,Germany,Mumbai Central,India,FedEx Freight,Sea,2532,14835,45074.66,18,2023-08-16,In Transit
+SHP-0192,2024-10-22,Shanghai East,192,China,Chicago Hub,USA,Maersk Logistics,Road,1798.8,7772,34950.68,2,2024-10-24,Delivered
+SHP-0193,2024-10-22,Mumbai Central,193,India,Chicago Hub,USA,UPS Supply Chain,Sea,4191.2,9013,45330.34,12,2024-11-03,Delayed
+SHP-0194,2024-06-26,Berlin Depot,194,Germany,Shanghai East,China,DB Schenker,Road,3007.5,11917,89600.94,28,2024-07-24,In Transit
+SHP-0195,2023-06-25,Shanghai East,195,China,Berlin Depot,Germany,Maersk Logistics,Sea,4501.6,5521,29824,27,2023-07-22,Delivered
+SHP-0196,2023-06-01,Shanghai East,196,China,Berlin Depot,Germany,Maersk Logistics,Rail,3871.8,1275,8885.78,13,2023-06-14,In Transit
+SHP-0197,2024-12-26,Chicago Hub,197,USA,Berlin Depot,Germany,DHL Supply Chain,Rail,993.2,3373,6030.11,24,2025-01-19,Delivered
+SHP-0198,2023-05-10,Chicago Hub,198,USA,Mumbai Central,India,Maersk Logistics,Air,4969.5,9913,246313.27,16,2023-05-26,In Transit
+SHP-0199,2023-06-01,Chicago Hub,199,USA,Berlin Depot,Germany,UPS Supply Chain,Air,3361.2,6133,103071.2,13,2023-06-14,Delayed
+SHP-0200,2024-05-26,Chicago Hub,200,USA,Shanghai East,China,DHL Supply Chain,Air,4610.1,7128,164303.96,26,2024-06-21,In Transit
+SHP-0201,2024-06-03,Berlin Depot,201,Germany,Chicago Hub,USA,Maersk Logistics,Air,4853.7,9448,229288.79,12,2024-06-15,In Transit
+SHP-0202,2024-05-05,Berlin Depot,202,Germany,Chicago Hub,USA,FedEx Freight,Road,1759.6,2340,10293.66,30,2024-06-04,Delivered
+SHP-0203,2023-08-14,São Paulo North,203,Brazil,Mumbai Central,India,Maersk Logistics,Rail,221.5,10617,4233,16,2023-08-30,Delivered
+SHP-0204,2023-10-12,Berlin Depot,204,Germany,Mumbai Central,India,FedEx Freight,Sea,2958.8,4139,14695.77,8,2023-10-20,Delivered
+SHP-0205,2023-07-19,São Paulo North,205,Brazil,Shanghai East,China,Maersk Logistics,Air,4881.6,6962,169928.5,17,2023-08-05,Delayed
+SHP-0206,2024-03-13,São Paulo North,206,Brazil,Mumbai Central,India,UPS Supply Chain,Rail,2048,12230,45084.67,13,2024-03-26,In Transit
+SHP-0207,2024-07-28,Mumbai Central,207,India,Shanghai East,China,DHL Supply Chain,Rail,1821.6,7800,25575.26,4,2024-08-01,Delayed
+SHP-0208,2024-03-10,Shanghai East,208,China,São Paulo North,Brazil,UPS Supply Chain,Road,1514.3,13700,51864.78,25,2024-04-04,Delivered
+SHP-0209,2024-06-21,São Paulo North,209,Brazil,Mumbai Central,India,FedEx Freight,Sea,1118.1,8276,11104.07,12,2024-07-03,Delayed
+SHP-0210,2024-02-29,Shanghai East,210,China,Mumbai Central,India,DB Schenker,Air,2106.4,4978,52428.3,7,2024-03-07,In Transit
+SHP-0211,2023-10-24,São Paulo North,211,Brazil,Chicago Hub,USA,UPS Supply Chain,Sea,1011.4,6754,8197.19,19,2023-11-12,Delivered
+SHP-0212,2023-08-18,Berlin Depot,212,Germany,Shanghai East,China,FedEx Freight,Road,2840.5,8093,57470.42,2,2023-08-20,Delivered
+SHP-0213,2023-10-22,Berlin Depot,213,Germany,Shanghai East,China,DHL Supply Chain,Road,708.5,11410,20209.96,15,2023-11-06,In Transit
+SHP-0214,2023-03-10,Chicago Hub,214,USA,Mumbai Central,India,Maersk Logistics,Air,3847.1,8578,165002.12,21,2023-03-31,Delayed
+SHP-0215,2024-12-11,Shanghai East,215,China,São Paulo North,Brazil,FedEx Freight,Rail,3177.2,8299,47461.65,28,2025-01-08,In Transit
+SHP-0216,2023-05-30,São Paulo North,216,Brazil,Mumbai Central,India,UPS Supply Chain,Rail,898,1458,2356.71,12,2023-06-11,Delayed
+SHP-0217,2024-03-05,Chicago Hub,217,USA,Shanghai East,China,Maersk Logistics,Sea,359.2,6417,2765.98,22,2024-03-27,Delivered
+SHP-0218,2024-10-05,Berlin Depot,218,Germany,Shanghai East,China,FedEx Freight,Air,2617.9,13057,170909.6,7,2024-10-12,Delayed
+SHP-0219,2023-11-05,Chicago Hub,219,USA,Shanghai East,China,Maersk Logistics,Rail,4151.4,11722,87592.88,10,2023-11-15,Delivered
+SHP-0220,2023-10-16,São Paulo North,220,Brazil,Berlin Depot,Germany,UPS Supply Chain,Sea,163.2,8989,1760.41,13,2023-10-29,In Transit
+SHP-0221,2023-08-15,Berlin Depot,221,Germany,Chicago Hub,USA,DHL Supply Chain,Air,1167.6,8747,51064.99,28,2023-09-12,Delayed
+SHP-0222,2023-04-30,São Paulo North,222,Brazil,Mumbai Central,India,DHL Supply Chain,Road,2356.4,1751,10315.14,28,2023-05-28,Delivered
+SHP-0223,2024-03-28,Shanghai East,223,China,Berlin Depot,Germany,DB Schenker,Rail,3486.1,2777,17425.62,30,2024-04-27,Delayed
+SHP-0224,2023-05-02,Berlin Depot,224,Germany,Chicago Hub,USA,DHL Supply Chain,Rail,240.9,13845,6003.47,9,2023-05-11,Delayed
+SHP-0225,2023-03-22,Chicago Hub,225,USA,Berlin Depot,Germany,FedEx Freight,Rail,714.2,2633,3384.88,15,2023-04-06,Delivered
+SHP-0226,2023-02-03,Mumbai Central,226,India,São Paulo North,Brazil,DB Schenker,Road,308.3,2266,1746.52,27,2023-03-02,Delayed
+SHP-0227,2023-03-09,Mumbai Central,227,India,São Paulo North,Brazil,FedEx Freight,Air,4551.8,1209,27515.63,11,2023-03-20,Delivered
+SHP-0228,2023-01-30,Mumbai Central,228,India,Berlin Depot,Germany,DHL Supply Chain,Sea,1005.4,6259,7551.36,4,2023-02-03,Delayed
+SHP-0229,2024-09-19,Berlin Depot,229,Germany,Shanghai East,China,DB Schenker,Rail,886.7,8702,13888.91,9,2024-09-28,Delayed
+SHP-0230,2023-07-16,Mumbai Central,230,India,Chicago Hub,USA,DHL Supply Chain,Air,2691.3,12227,164532.63,11,2023-07-27,Delayed
+SHP-0231,2024-12-25,Mumbai Central,231,India,Chicago Hub,USA,Maersk Logistics,Sea,4610.3,14447,79926,17,2025-01-11,Delayed
+SHP-0232,2023-07-05,São Paulo North,232,Brazil,Chicago Hub,USA,Maersk Logistics,Road,3400.3,2258,19194.69,28,2023-08-02,In Transit
+SHP-0233,2023-11-18,Shanghai East,233,China,Chicago Hub,USA,UPS Supply Chain,Sea,2097.1,12974,32649.33,5,2023-11-23,Delivered
+SHP-0234,2023-10-23,São Paulo North,234,Brazil,Chicago Hub,USA,FedEx Freight,Road,3835.1,12046,115494.04,19,2023-11-11,Delivered
+SHP-0235,2024-09-06,Berlin Depot,235,Germany,São Paulo North,Brazil,Maersk Logistics,Air,1985.4,7986,79277.02,25,2024-10-01,Delayed
+SHP-0236,2024-03-14,Shanghai East,236,China,Chicago Hub,USA,FedEx Freight,Road,1523.9,14514,55294.71,8,2024-03-22,In Transit
+SHP-0237,2024-11-19,Berlin Depot,237,Germany,Chicago Hub,USA,UPS Supply Chain,Air,4993.7,8555,213605.52,5,2024-11-24,In Transit
+SHP-0238,2024-12-12,São Paulo North,238,Brazil,Mumbai Central,India,FedEx Freight,Air,802.5,7063,28340.29,20,2025-01-01,Delayed
+SHP-0239,2023-07-25,Chicago Hub,239,USA,Mumbai Central,India,UPS Supply Chain,Rail,4878.5,6048,53109.3,21,2023-08-15,Delivered
+SHP-0240,2024-08-18,Chicago Hub,240,USA,São Paulo North,Brazil,Maersk Logistics,Road,1464.7,12189,44633.07,20,2024-09-07,Delayed
+SHP-0241,2024-05-11,Shanghai East,241,China,Berlin Depot,Germany,Maersk Logistics,Road,3366.7,7126,59977.76,18,2024-05-29,Delivered
+SHP-0242,2023-08-25,Shanghai East,242,China,Mumbai Central,India,DHL Supply Chain,Air,1328.4,8647,57433.37,22,2023-09-16,Delivered
+SHP-0243,2023-07-03,Mumbai Central,243,India,Chicago Hub,USA,DB Schenker,Air,2540.9,938,11916.82,14,2023-07-17,Delayed
+SHP-0244,2023-03-20,Berlin Depot,244,Germany,Chicago Hub,USA,DB Schenker,Rail,3147.6,2078,11773.28,23,2023-04-12,In Transit
+SHP-0245,2024-05-31,Shanghai East,245,China,Chicago Hub,USA,DB Schenker,Rail,3344.3,8532,51360.42,10,2024-06-10,In Transit
+SHP-0246,2023-05-02,São Paulo North,246,Brazil,Mumbai Central,India,UPS Supply Chain,Air,4954.5,14919,369580.93,14,2023-05-16,In Transit
+SHP-0247,2024-07-24,Shanghai East,247,China,São Paulo North,Brazil,Maersk Logistics,Road,276.3,3397,2346.48,23,2024-08-16,Delayed
+SHP-0248,2024-02-03,Chicago Hub,248,USA,São Paulo North,Brazil,FedEx Freight,Road,759,12226,23198.83,17,2024-02-20,Delayed
+SHP-0249,2024-06-02,Shanghai East,249,China,São Paulo North,Brazil,UPS Supply Chain,Road,2855.1,3060,21841.51,3,2024-06-05,In Transit
+SHP-0250,2023-11-25,Shanghai East,250,China,São Paulo North,Brazil,FedEx Freight,Rail,3855.7,5160,35811.74,3,2023-11-28,Delayed
+SHP-0251,2024-08-20,Mumbai Central,251,India,Berlin Depot,Germany,Maersk Logistics,Rail,1809.5,12657,41225.11,2,2024-08-22,In Transit
+SHP-0252,2023-12-26,Mumbai Central,252,India,São Paulo North,Brazil,DHL Supply Chain,Rail,4960.5,7249,64725.6,3,2023-12-29,Delivered
+SHP-0253,2023-11-09,Chicago Hub,253,USA,Shanghai East,China,Maersk Logistics,Air,4560.9,1573,35871.48,5,2023-11-14,Delivered
+SHP-0254,2024-03-08,Mumbai Central,254,India,Shanghai East,China,DB Schenker,Air,2358.5,14645,172701.16,20,2024-03-28,In Transit
+SHP-0255,2024-01-22,Berlin Depot,255,Germany,Mumbai Central,India,UPS Supply Chain,Road,2981.1,5685,42368.88,20,2024-02-11,In Transit
+SHP-0256,2023-07-30,São Paulo North,256,Brazil,Mumbai Central,India,UPS Supply Chain,Road,590.3,11561,17061.15,12,2023-08-11,Delayed
+SHP-0257,2023-07-26,Berlin Depot,257,Germany,Chicago Hub,USA,FedEx Freight,Rail,1880.3,7643,25868.04,17,2023-08-12,Delayed
+SHP-0258,2024-02-16,Chicago Hub,258,USA,Shanghai East,China,DHL Supply Chain,Rail,332.9,9896,5929.88,27,2024-03-14,Delayed
+SHP-0259,2024-06-27,Mumbai Central,259,India,Chicago Hub,USA,UPS Supply Chain,Rail,1439.5,9780,25340.96,17,2024-07-14,Delivered
+SHP-0260,2024-03-19,Berlin Depot,260,Germany,Mumbai Central,India,DB Schenker,Rail,2572.7,5413,25066.85,23,2024-04-11,In Transit
+SHP-0261,2024-04-09,Chicago Hub,261,USA,São Paulo North,Brazil,DB Schenker,Road,1331.2,8943,29762.3,23,2024-05-02,Delivered
+SHP-0262,2024-04-23,Mumbai Central,262,India,Berlin Depot,Germany,DB Schenker,Road,1143.5,13998,40016.78,10,2024-05-03,Delayed
+SHP-0263,2023-09-04,Shanghai East,263,China,Mumbai Central,India,Maersk Logistics,Sea,1884.9,2920,6604.69,6,2023-09-10,In Transit
+SHP-0264,2024-02-27,Shanghai East,264,China,Berlin Depot,Germany,Maersk Logistics,Air,3206.2,14360,230205.16,10,2024-03-08,Delayed
+SHP-0265,2023-06-03,Chicago Hub,265,USA,Shanghai East,China,FedEx Freight,Sea,2088.7,2360,5915.2,8,2023-06-11,Delivered
+SHP-0266,2024-03-08,Berlin Depot,266,Germany,São Paulo North,Brazil,FedEx Freight,Road,2843.1,7645,54338.75,22,2024-03-30,Delivered
+SHP-0267,2023-10-12,Chicago Hub,267,USA,Shanghai East,China,DB Schenker,Sea,242.8,13437,3915,23,2023-11-04,Delivered
+SHP-0268,2023-11-18,Mumbai Central,268,India,São Paulo North,Brazil,Maersk Logistics,Air,371.1,1875,3479.06,21,2023-12-09,Delivered
+SHP-0269,2023-05-24,Shanghai East,269,China,Berlin Depot,Germany,FedEx Freight,Air,2044.8,14259,145784.02,9,2023-06-02,Delayed
+SHP-0270,2023-09-01,São Paulo North,270,Brazil,Mumbai Central,India,FedEx Freight,Rail,2532.6,1978,9017.07,21,2023-09-22,In Transit
+SHP-0271,2023-05-28,Berlin Depot,271,Germany,São Paulo North,Brazil,DHL Supply Chain,Sea,4684,4071,22882.28,5,2023-06-02,Delivered
+SHP-0272,2023-02-27,Berlin Depot,272,Germany,São Paulo North,Brazil,DB Schenker,Road,1346.1,10158,34184.21,17,2023-03-16,In Transit
+SHP-0273,2023-10-12,Mumbai Central,273,India,Shanghai East,China,DHL Supply Chain,Road,2426.8,4536,27519.91,30,2023-11-11,In Transit
+SHP-0274,2023-02-05,Shanghai East,274,China,Berlin Depot,Germany,FedEx Freight,Rail,203.3,10425,3814.92,28,2023-03-05,Delayed
+SHP-0275,2024-01-07,Chicago Hub,275,USA,Shanghai East,China,FedEx Freight,Road,1615.4,11978,48373.15,30,2024-02-06,Delayed
+SHP-0276,2023-09-19,Chicago Hub,276,USA,São Paulo North,Brazil,FedEx Freight,Road,138.5,6938,2402.28,11,2023-09-30,Delivered
+SHP-0277,2023-11-21,Berlin Depot,277,Germany,Chicago Hub,USA,UPS Supply Chain,Sea,4587.9,10844,59701.43,30,2023-12-21,Delivered
+SHP-0278,2023-12-07,Berlin Depot,278,Germany,Mumbai Central,India,UPS Supply Chain,Road,2408.3,7265,43740.75,24,2023-12-31,Delivered
+SHP-0279,2024-07-14,Chicago Hub,279,USA,Shanghai East,China,Maersk Logistics,Air,1824.1,10365,94533.98,25,2024-08-08,In Transit
+SHP-0280,2024-10-18,Mumbai Central,280,India,Chicago Hub,USA,FedEx Freight,Sea,3187.8,13460,51489.35,6,2024-10-24,In Transit
+SHP-0281,2023-06-11,Chicago Hub,281,USA,Shanghai East,China,DB Schenker,Rail,2921.5,2315,12173.89,9,2023-06-20,Delayed
+SHP-0282,2023-05-17,Chicago Hub,282,USA,São Paulo North,Brazil,DHL Supply Chain,Rail,2312.3,14811,61645.46,10,2023-05-27,Delayed
+SHP-0283,2024-01-12,São Paulo North,283,Brazil,Berlin Depot,Germany,UPS Supply Chain,Rail,1073.5,7291,14088.4,7,2024-01-19,In Transit
+SHP-0284,2024-10-24,São Paulo North,284,Brazil,Chicago Hub,USA,DHL Supply Chain,Air,4745.7,9650,228980.02,21,2024-11-14,Delivered
+SHP-0285,2023-02-20,Shanghai East,285,China,Chicago Hub,USA,DB Schenker,Rail,3536.2,3264,20775.88,14,2023-03-06,In Transit
+SHP-0286,2023-06-24,São Paulo North,286,Brazil,Berlin Depot,Germany,FedEx Freight,Sea,536.4,6528,4201.94,20,2023-07-14,Delivered
+SHP-0287,2023-05-02,São Paulo North,287,Brazil,Shanghai East,China,DHL Supply Chain,Road,4153.6,8596,89260.86,9,2023-05-11,Delivered
+SHP-0288,2023-07-31,Berlin Depot,288,Germany,Shanghai East,China,DHL Supply Chain,Road,1972.2,7566,37304.16,21,2023-08-21,In Transit
+SHP-0289,2023-01-30,Chicago Hub,289,USA,São Paulo North,Brazil,Maersk Logistics,Sea,2101.8,2891,7291.56,11,2023-02-10,Delivered
+SHP-0290,2024-10-24,São Paulo North,290,Brazil,Shanghai East,China,FedEx Freight,Sea,1911.2,11711,26858.48,16,2024-11-09,Delivered
+SHP-0291,2024-12-04,Shanghai East,291,China,Chicago Hub,USA,UPS Supply Chain,Rail,4874.6,7013,61534.03,8,2024-12-12,Delayed
+SHP-0292,2023-02-23,Shanghai East,292,China,Berlin Depot,Germany,DHL Supply Chain,Air,566.9,1462,4144.04,12,2023-03-07,In Transit
+SHP-0293,2024-01-26,Berlin Depot,293,Germany,Mumbai Central,India,UPS Supply Chain,Air,1342.9,10652,71522.85,11,2024-02-06,Delayed
+SHP-0294,2023-06-23,Berlin Depot,294,Germany,Chicago Hub,USA,UPS Supply Chain,Air,2944.4,4764,70135.61,18,2023-07-11,In Transit
+SHP-0295,2024-03-19,Shanghai East,295,China,Chicago Hub,USA,Maersk Logistics,Air,1654.9,9190,76042.65,6,2024-03-25,Delivered
+SHP-0296,2023-10-15,Berlin Depot,296,Germany,Mumbai Central,India,Maersk Logistics,Sea,2546.1,14177,43315.27,25,2023-11-09,In Transit
+SHP-0297,2023-06-18,Berlin Depot,297,Germany,Shanghai East,China,UPS Supply Chain,Rail,2633.2,7639,36207.03,12,2023-06-30,Delivered
+SHP-0298,2023-08-24,São Paulo North,298,Brazil,Shanghai East,China,FedEx Freight,Air,1025.7,1394,7149.13,7,2023-08-31,In Transit
+SHP-0299,2023-02-11,Berlin Depot,299,Germany,Chicago Hub,USA,Maersk Logistics,Road,2238.5,8608,48172.52,16,2023-02-27,Delayed
+SHP-0300,2023-06-01,São Paulo North,300,Brazil,Shanghai East,China,Maersk Logistics,Road,2515.6,14358,90297.46,5,2023-06-06,Delivered
