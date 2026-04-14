@@ -87,12 +87,6 @@ Indicates significant delays after supplier dispatch (logistics/internal issues)
 <img width="1323" height="795" alt="Snapshot of the Dashboard" src="https://github.com/ravalsahil03/supply-chain-analysis/blob/main/Dashboard%20Images/Shipments.png" />
 <img width="1323" height="795" alt="Snapshot of the Dashboard" src="https://github.com/ravalsahil03/supply-chain-analysis/blob/main/Dashboard%20Images/Supplier%20Performance.png" />
 
-## Project Structure
-
-- SQL → Queries used for analysis
-- Dashboard → Power BI file
-- Data → Dataset
-- Docs → Project report and PPT
 
 ## Recommendations
 - Improve logistics and last-mile delivery tracking
